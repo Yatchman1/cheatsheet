@@ -19,99 +19,99 @@ $ ssh pi@192...
 
 ## Online apps
 
-[BuiltWith](https://builtwith.com/) Find out what websites areBuilt With 🔦
+[**BuiltWith**](https://builtwith.com/) Find out what websites areBuilt With 🔦
 
-[SVGator](https://www.svgator.com/) SVG Animation Creator
+[**SVGator**](https://www.svgator.com/) SVG Animation Creator
 
-[Time.Graphics](https://time.graphics) Free online timeline maker
+[**Time.Graphics**](https://time.graphics) Free online timeline maker
 
-[Get-metadata](https://www.get-metadata.com/) Free online EXIF viewer
+[**Get-metadata**](https://www.get-metadata.com/) Free online EXIF viewer
 
-[Photopea](https://www.photopea.com/) Photoshop online
+[**Photopea**](https://www.photopea.com/) Photoshop online
 
-[SuiteCRM](https://suitecrm.com/) The preferred Open Source CRM solution
+[**SuiteCRM**](https://suitecrm.com/) The preferred Open Source CRM solution
 
-[Grafana](grafana.net) The open platform for beautiful analytics and monitoring
+[**Grafana**](grafana.net) The open platform for beautiful analytics and monitoring
 
-[Mosaico](https://mosaico.io/) Open source email template builder
+[**Mosaico**](https://mosaico.io/) Open source email template builder
 
-[cloudconvert](https://cloudconvert.com/) Convert anything to anything
+[**cloudconvert**](https://cloudconvert.com/) Convert anything to anything ♻️
 
-[Zamzar](https://www.zamzar.com/) File conversion made easy
+[**Zamzar**](https://www.zamzar.com/) File conversion made easy ♻️
 
-[StalkFace](https://stalkface.com/en/) Facebook Stalking & Facebook Scanner
+[**StalkFace**](https://stalkface.com/en/) Facebook Stalking & Facebook Scanner
 
-[Appear.in](https://appear.in/) Easy video conversations
+[**Appear.in**](https://appear.in/) Easy video conversations
 
-[Snapito](https://snapito.com/) Simple, quick and quality website snapshots
+[**Snapito**](https://snapito.com/) Simple, quick and quality website snapshots
 
-[Noisli](https://www.noisli.com/) Improve focus and boost your productivity with background noise
+[**Noisli**](https://www.noisli.com/) Improve focus and boost your productivity with background noise
 
-[Mathway](https://www.mathway.com) Math problem solver
+[**Mathway**](https://www.mathway.com) Math problem solver
 
-[FB pic check](https://www.facebook.com/ads/tools/text_overlay) Check the amount of text in picture for Facebook
+[**FB pic check**](https://www.facebook.com/ads/tools/text_overlay) Check the amount of text in picture for Facebook
 
-[PeoplefindThor](https://peoplefindthor.dk/) The easy way to find people on Facebook
+[**PeoplefindThor**](https://peoplefindthor.dk/) The easy way to find people on Facebook
 
-[Slidebean](https://slidebean.com/pitch-deck-template) Pitch deck templates for startups
+[**Slidebean**](https://slidebean.com/pitch-deck-template) Pitch deck templates for startups
 
-[KeywordTool](https://keywordtool.io) Find Great Keywords Using Google Autocomplete
+[**KeywordTool**](https://keywordtool.io) Find Great Keywords Using Google Autocomplete
 
-[SYD](https://syd.korpus.cz/) Korpusový průzkum variant slov
+[**SYD**](https://syd.korpus.cz/) Korpusový průzkum variant slov
 
-[kdejsme.cz](https://www.kdejsme.cz/) Četnost příjmení a jmen v ČR
+[**kdejsme.cz**](https://www.kdejsme.cz/) Četnost příjmení a jmen v ČR
 
-[Legito](https://www.legito.cz/) Vytvořte si svůj dokument za 5 minut
+[**Legito**](https://www.legito.cz/) Vytvořte si svůj dokument za 5 minut
 
-[LMGTFY](https://lmgtfy.com/) Let Me Google That For You
+[**LMGTFY**](https://lmgtfy.com/) Let Me Google That For You
 
-[Mindmup](https://app.mindmup.com) Free Online mind mapping
+[**Mindmup**](https://app.mindmup.com) Free Online mind mapping
 
-[BugMeNot](http://bugmenot.com/) Find and share logins
+[**BugMeNot**](http://bugmenot.com/) Find and share logins
 
-[isup.me](https://downforeveryoneorjustme.com/) Down For Everyone Or Just Me
+[**isup.me**](https://downforeveryoneorjustme.com/) Down For Everyone Or Just Me
 
-[haveibeenpwned](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach
+[**haveibeenpwned**](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach
 
-[ReviewMeta](https://reviewmeta.com/) Analyzes millions of reviews and helps you decide which ones to trust
+[**ReviewMeta**](https://reviewmeta.com/) Analyzes millions of reviews and helps you decide which ones to trust
 
 ## Travel
 
-[Airport passwords](https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&hl=en_US&ll=40.98298879999999%2C28.810442500000022&z=8) Wireless passwords from airports and lounges
+[**Airport passwords**](https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&hl=en_US&ll=40.98298879999999%2C28.810442500000022&z=8) Wireless passwords from airports and lounges
 
-[Železniční tabule](https://provoz.szdc.cz/tabule/Default.aspx?lang=cs) Informační tabule českých drah
+[**Železniční tabule**](https://provoz.szdc.cz/tabule/Default.aspx?lang=cs) Informační tabule českých drah
 
 ## Livin' Prague
 
-[nakoleprahou.cz](https://nakoleprahou.cz/plan.php) Plánovač cyklotras Prahou
+[**nakoleprahou.cz**](https://nakoleprahou.cz/plan.php) Plánovač cyklotras Prahou
 
-[mapakriminality.cz](http://mapakriminality.cz/) Pojekt otevřené společnosti
+[**mapakriminality.cz**](http://mapakriminality.cz/) Pojekt otevřené společnosti
 
 ## Cool GitHub apps
 
-[Sherlock](https://github.com/sherlock-project/sherlock) Find username across social networks (OSINT) 🔍
+[**Sherlock**](https://github.com/sherlock-project/sherlock) Find username across social networks (OSINT) 🔍
 
-[Trape](https://github.com/jofpin/trape) People tracker on the internet (OSINT) 📍
+[**Trape**](https://github.com/jofpin/trape) People tracker on the internet (OSINT) 📍
 
-[theHarvester](https://github.com/laramies/theHarvester) E-mails, subdomains and names Harvester (OSINT) 🧹
+[**theHarvester**](https://github.com/laramies/theHarvester) E-mails, subdomains and names Harvester (OSINT) 🧹
 
 ## Amusement
 
-[Music map](https://www.music-map.com/) The Tourist Map of Music
+[**Music map**](https://www.music-map.com/) The Tourist Map of Music
 
 ## Noteworthy
 
-[Mluvii](https://www.mluvii.com) Zlepšete svůj online business
+[**Mluvii**](https://www.mluvii.com) Zlepšete svůj online business
 
-[Ecomail](https://www.ecomail.cz/) Marketingová  platforma pro E-mailing, SMS, Facebook, Instagram a Messenger
+[**Ecomail**](https://www.ecomail.cz/) Marketingová  platforma pro E-mailing, SMS, Facebook, Instagram a Messenger
 
 ## Tool collections
 
-[Pinbox](https://withpinbox.com/) The last collection tool you need
+[**Pinbox**](https://withpinbox.com/) The last collection tool you need
 
-[Producthunt](https://www.producthunt.com/) The best new products in tech
+[**Producthunt**](https://www.producthunt.com/) The best new products in tech
 
-[Tools for Makers](https://toolsformakers.com/) A hand curated directory of tools for makers to work on their dream projects
+[**Tools for Makers**](https://toolsformakers.com/) A hand curated directory of tools for makers to work on their dream projects
 
 
 
@@ -119,21 +119,21 @@ $ ssh pi@192...
 
 ## Django&Python
 
-[django-cheat-sheet](https://github.com/lucrae/django-cheat-sheet) Django cheatsheet
+[**django-cheat-sheet**](https://github.com/lucrae/django-cheat-sheet) Django cheatsheet
 
-[awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
+[**awesome-python**](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources
 
-[Bootswatch](https://bootswatch.com) Free themes for Bootstrap
+[**Bootswatch**](https://bootswatch.com) Free themes for Bootstrap
 
 ## Tools
 
-[Pusher](https://pusher.com/) Hosted APIs to build realtime apps
+[**Pusher**](https://pusher.com/) Hosted APIs to build realtime apps
 
 ## Tutorials
 
-[DjangoGirls](https://tutorial.djangogirls.org/cs/) Tutorial na Django v češtině
+[**DjangoGirls**](https://tutorial.djangogirls.org/cs/) Tutorial na Django v češtině
 
-[HackerRank](https://www.hackerrank.com/) Practice coding, prepare for interviews, and get hired
+[**HackerRank**](https://www.hackerrank.com/) Practice coding, prepare for interviews, and get hired
 
 
 
@@ -141,15 +141,15 @@ $ ssh pi@192...
 
 ## Overview
 
-[Coinmarketcap](https://coinmarketcap.com/) Top 100 Cryptocurrencies by Market Capitalization
+[**Coinmarketcap**](https://coinmarketcap.com/) Top 100 Cryptocurrencies by Market Capitalization
 
-[Bitcoin Trading Calculator](https://easybitcoincalculator.com/) No fuss, no mess, calculate those Bitcoin trading profits! ...or losses :(
+[**Bitcoin Trading Calculator**](https://easybitcoincalculator.com/) No fuss, no mess, calculate those Bitcoin trading profits! ...or losses :(
 
-[CryptoCompare](https://www.cryptocompare.com/) Live cryptocurrency prices, news, etc.
+[**CryptoCompare**](https://www.cryptocompare.com/) Live cryptocurrency prices, news, etc.
 
-[Cryptowatch](https://cryptowat.ch/) Live Bitcoin price charts
+[**Cryptowatch**](https://cryptowat.ch/) Live Bitcoin price charts
 
-[Blockcypher](https://live.blockcypher.com/) Find info that other block explorers don't have
+[**Blockcypher**](https://live.blockcypher.com/) Find info that other block explorers don't have
 
 
 
@@ -157,18 +157,18 @@ $ ssh pi@192...
 
 ## Lists&Instructions
 
-[100metod](https://100metod.cz/) Rozcestník metod pro inovace informačních služeb
+[**100metod**](https://100metod.cz/) Rozcestník metod pro inovace informačních služeb
 
-[ferovytendr.cz](http://ferovytendr.cz/) Jak na tendry
+[**ferovytendr.cz**](http://ferovytendr.cz/) Jak na tendry
 
-[Facebook Blueprint](https://www.facebook.com/business/learn/paths/all-content?ref=ens_rdr) Full list of free online Facebook marketing courses from Blueprint
+[**Facebook Blueprint**](https://www.facebook.com/business/learn/paths/all-content?ref=ens_rdr) Full list of free online Facebook marketing courses from Blueprint
 
-[Failory](https://www.failory.com/) Content to help build a profitable startup
+[**Failory**](https://www.failory.com/) Content to help build a profitable startup
 
 ## Other lists
 
-[awesome-osint](https://github.com/jivoi/awesome-osint) A curated list of amazingly awesome OSINT 😱
+[**awesome-osint**](https://github.com/jivoi/awesome-osint) A curated list of amazingly awesome OSINT 😱
 
-[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+[**the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-[dotfiles](https://github.com/mathiasbynens/dotfiles) 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
+[**dotfiles**](https://github.com/mathiasbynens/dotfiles) 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
