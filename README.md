@@ -1,10 +1,8 @@
-Last update: 2. 5. 2019 17:00
+# In general..
 
-Table of content
+Internet is loaded with stuff. Here is something like a library of noteworthy things out there 💫
 
-[TOC]
-
-
+**Table of content will be here.**
 
 # Cheatsheet
 
@@ -75,6 +73,14 @@ $ ssh pi@192...
 
 [**ReviewMeta**](https://reviewmeta.com/) Analyzes millions of reviews and helps you decide which ones to trust
 
+[**SketchUp**](https://app.sketchup.com) SketchUp. Online.
+
+[**PDF.to**](https://pdf.to/) PDF converter
+
+[**Google keyword**](https://ads.google.com/home/tools/keyword-planner/) Google Adwords keyword planner
+
+[**LinkTree**](https://linktr.ee/) Manage Instagram bio link
+
 ## Travel
 
 [**Airport passwords**](https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&hl=en_US&ll=40.98298879999999%2C28.810442500000022&z=8) Wireless passwords from airports and lounges
@@ -86,6 +92,12 @@ $ ssh pi@192...
 [**nakoleprahou.cz**](https://nakoleprahou.cz/plan.php) Plánovač cyklotras Prahou
 
 [**mapakriminality.cz**](http://mapakriminality.cz/) Pojekt otevřené společnosti
+
+[**zpspraha.cz**](https://osu.zpspraha.cz/) Parkování v Praze
+
+**[portal.gov](https://portal.gov.cz/obcan/formulare)** Portál veřejné správy
+
+
 
 ## Cool GitHub apps
 
@@ -113,7 +125,9 @@ $ ssh pi@192...
 
 [**Tools for Makers**](https://toolsformakers.com/) A hand curated directory of tools for makers to work on their dream projects
 
+[**UsefulInterweb**](https://usefulinterweb.com/) Useful Interweb brings only the best links every day
 
+[**StartupStash**](https://startupstash.com/) A curated directory of tools  and resources to build your startup
 
 # Programming
 
@@ -125,9 +139,15 @@ $ ssh pi@192...
 
 [**Bootswatch**](https://bootswatch.com) Free themes for Bootstrap
 
-## Tools
+## Resources
 
 [**Pusher**](https://pusher.com/) Hosted APIs to build realtime apps
+
+[**CodePen**](https://codepen.io/) A social development environment for front-end designers and developers
+
+[**CodyHouse**](https://codyhouse.co/) Design system templates
+
+[**Code My UI**](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets
 
 ## Tutorials
 
@@ -172,3 +192,11 @@ $ ssh pi@192...
 [**the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 [**dotfiles**](https://github.com/mathiasbynens/dotfiles) 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
+
+
+
+------
+
+Under the line
+
+Suggestions/improvements [welcome](https://github.com/Yatchman1/cheatsheet/issues)!
