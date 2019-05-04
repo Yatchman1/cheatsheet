@@ -159,7 +159,7 @@ $ ssh pi@192...
 
 
 
-# [👆][#In general..] Programming
+# [👆][# In general..] Programming
 
 #### Django&Python
 
