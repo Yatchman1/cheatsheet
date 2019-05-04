@@ -13,7 +13,7 @@ $ ssh pi@192...
 
 
 
-# [↑](# In general..) Tools
+# 🔧 Tools
 
 #### Online apps
 
@@ -25,19 +25,11 @@ $ ssh pi@192...
 
 🔘 [**Get-metadata**](https://www.get-metadata.com/) Free online EXIF viewer
 
-🔘 [**Photopea**](https://www.photopea.com/) Photoshop online
-
 🔘 [**SuiteCRM**](https://suitecrm.com/) The preferred Open Source CRM solution
 
 🔘 [**Grafana**](grafana.net) The open platform for beautiful analytics and monitoring
 
 🔘 [**Mosaico**](https://mosaico.io/) Open source email template builder
-
-🔘 [**cloudconvert**](https://cloudconvert.com/) Convert anything to anything ♻️
-
-🔘 [**Zamzar**](https://www.zamzar.com/) File conversion made easy ♻️
-
-🔘 [**StalkFace**](https://stalkface.com/en/) Facebook Stalking & Facebook Scanner
 
 🔘 [**Appear.in**](https://appear.in/) Easy video conversations
 
@@ -47,13 +39,37 @@ $ ssh pi@192...
 
 🔘 [**Mathway**](https://www.mathway.com) Math problem solver
 
-🔘 [**FB pic check**](https://www.facebook.com/ads/tools/text_overlay) Check the amount of text in picture for Facebook
+#### File conversion
+
+🔘 [**cloudconvert**](https://cloudconvert.com/) Convert anything to anything ♻️
+
+🔘 [**Zamzar**](https://www.zamzar.com/) File conversion made easy ♻️
+
+🔘 [**PDF.to**](https://pdf.to/) PDF converter
+
+#### Social
+
+🔘 [**StalkFace**](https://stalkface.com/en/) Facebook Stalking & Facebook Scanner
 
 🔘 [**PeoplefindThor**](https://peoplefindthor.dk/) The easy way to find people on Facebook
 
-🔘 [**Slidebean**](https://slidebean.com/pitch-deck-template) Pitch deck templates for startups
+🔘 [**FB pic check**](https://www.facebook.com/ads/tools/text_overlay) Check the amount of text in picture for Facebook
 
 🔘 [**KeywordTool**](https://keywordtool.io) Find Great Keywords Using Google Autocomplete
+
+🔘 [**Google keyword**](https://ads.google.com/home/tools/keyword-planner/) Google Adwords keyword planner
+
+🔘 [**LinkTree**](https://linktr.ee/) Manage Instagram bio link
+
+#### Graphics
+
+🔘 [**Photopea**](https://www.photopea.com/) Photoshop online
+
+🔘 [**Slidebean**](https://slidebean.com/pitch-deck-template) Pitch deck templates for startups
+
+🔘 [**SketchUp**](https://app.sketchup.com) SketchUp. Online.
+
+#### Others
 
 🔘 [**SYD**](https://syd.korpus.cz/) Korpusový průzkum variant slov
 
@@ -72,14 +88,6 @@ $ ssh pi@192...
 🔘 [**haveibeenpwned**](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach
 
 🔘 [**ReviewMeta**](https://reviewmeta.com/) Analyzes millions of reviews and helps you decide which ones to trust
-
-🔘 [**SketchUp**](https://app.sketchup.com) SketchUp. Online.
-
-🔘 [**PDF.to**](https://pdf.to/) PDF converter
-
-🔘 [**Google keyword**](https://ads.google.com/home/tools/keyword-planner/) Google Adwords keyword planner
-
-🔘 [**LinkTree**](https://linktr.ee/) Manage Instagram bio link
 
 🔘 [**Random.org**](https://www.random.org/) 🎲 Offers true random numbers to anyone on the Internet
 
@@ -159,9 +167,9 @@ $ ssh pi@192...
 
 
 
-# [👆][# In general..] Programming
+# 🧮 Programming
 
-#### Django&Python
+#### Django & Python
 
 🔘 [**django-cheat-sheet**](https://github.com/lucrae/django-cheat-sheet) Django cheatsheet
 
@@ -187,7 +195,7 @@ $ ssh pi@192...
 
 
 
-# Crypto stuff
+# 💸 Crypto stuff
 
 #### Overview
 
@@ -203,7 +211,7 @@ $ ssh pi@192...
 
 
 
-# Lists
+# 📜 Lists
 
 #### Lists & Instructions
 
@@ -232,3 +240,5 @@ $ ssh pi@192...
 **Under the line**
 
 Suggestions/improvements [welcome](https://github.com/Yatchman1/cheatsheet/issues)!
+
+Curated with ❤️ for the people of the internet.
