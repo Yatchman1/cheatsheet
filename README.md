@@ -81,23 +81,41 @@ $ ssh pi@192...
 
 [**LinkTree**](https://linktr.ee/) Manage Instagram bio link
 
+[**Random.org**](https://www.random.org/) 🎲 Offers true random numbers to anyone on the Internet
+
+[**SimilarSites**](https://www.similarsites.com/) Discover sites similar to the ones you know and love
+
+[**Internet Archive**](https://archive.org/) Library of millions of free books, movies, software, music, websites, and more
+
 ## Travel
 
 [**Airport passwords**](https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&hl=en_US&ll=40.98298879999999%2C28.810442500000022&z=8) Wireless passwords from airports and lounges
 
 [**Železniční tabule**](https://provoz.szdc.cz/tabule/Default.aspx?lang=cs) Informační tabule českých drah
 
+[**Flightstats**](https://www.flightstats.com/v2/) Serves the Needs of On-the-go Travelers
+
+[**Flightics**](https://www.flightics.com/cs) Vyhledejte si parádní Eurotrip
+
+[**AZair**](http://www.azair.cz/) Levné letenky low-cost dopravců
+
+[**Hotwire**](https://www.hotwire.com/) Super cheap way of booking hotels
+
+[momondo.cz](https://www.momondo.cz/)
+
+[kayak.com](https://www.kayak.com.my/)
+
+
+
 ## Livin' Prague
 
 [**nakoleprahou.cz**](https://nakoleprahou.cz/plan.php) Plánovač cyklotras Prahou
 
-[**mapakriminality.cz**](http://mapakriminality.cz/) Pojekt otevřené společnosti
+[**mapakriminality.cz**](http://mapakriminality.cz/) Jak název napovídá, jedná se o mapu kriminality
 
 [**zpspraha.cz**](https://osu.zpspraha.cz/) Parkování v Praze
 
 **[portal.gov](https://portal.gov.cz/obcan/formulare)** Portál veřejné správy
-
-
 
 ## Cool GitHub apps
 
@@ -110,6 +128,20 @@ $ ssh pi@192...
 ## Amusement
 
 [**Music map**](https://www.music-map.com/) The Tourist Map of Music
+
+[**InstaNerd**](http://instanerd.me/) Be smart, instantly
+
+[**Radiooooo**](http://radiooooo.com/) The musical time machine 📻
+
+[**playback.fm**](https://playback.fm/birthday-song) Find the #1 Song on the Day You Were Born
+
+[**The Useless Web**](https://theuselessweb.com/) Another useless website
+
+[**Forgotify**](http://forgotify.com/player.cfm) Discover a previously unheard Spotify tracks
+
+[**PointerPointer**](https://pointerpointer.com/) Point at your cursor. lol
+
+
 
 ## Noteworthy
 
@@ -128,6 +160,8 @@ $ ssh pi@192...
 [**UsefulInterweb**](https://usefulinterweb.com/) Useful Interweb brings only the best links every day
 
 [**StartupStash**](https://startupstash.com/) A curated directory of tools  and resources to build your startup
+
+
 
 # Programming
 
@@ -191,12 +225,14 @@ $ ssh pi@192...
 
 [**the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
+[**DONG**](https://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html) Do online now, guys
+
 [**dotfiles**](https://github.com/mathiasbynens/dotfiles) 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
 
 
 
 ------
 
-Under the line
+**Under the line**
 
 Suggestions/improvements [welcome](https://github.com/Yatchman1/cheatsheet/issues)!
