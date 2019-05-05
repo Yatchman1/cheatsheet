@@ -17,13 +17,9 @@ $ ssh pi@192...
 
 #### Online apps
 
-🔘 [**BuiltWith**](https://builtwith.com/) Find out what websites areBuilt With 🔦
-
 🔘 [**SVGator**](https://www.svgator.com/) SVG Animation Creator
 
 🔘 [**Time.Graphics**](https://time.graphics) Free online timeline maker
-
-🔘 [**Get-metadata**](https://www.get-metadata.com/) Free online EXIF viewer
 
 🔘 [**SuiteCRM**](https://suitecrm.com/) The preferred Open Source CRM solution
 
@@ -31,15 +27,23 @@ $ ssh pi@192...
 
 🔘 [**Mosaico**](https://mosaico.io/) Open source email template builder
 
-🔘 [**Appear.in**](https://appear.in/) Easy video conversations
-
 🔘 [**Snapito**](https://snapito.com/) Simple, quick and quality website snapshots
 
 🔘 [**Noisli**](https://www.noisli.com/) Improve focus and boost your productivity with background noise
 
 🔘 [**Mathway**](https://www.mathway.com) Math problem solver
 
+🔘 [**Mindmup**](https://app.mindmup.com) Free Online mind mapping
+
+🔘 [**BugMeNot**](http://bugmenot.com/) Find and share logins
+
+#### Talkings
+
+🔘 [**Appear.in**](https://appear.in/) Easy video conversations
+
 #### File conversion
+
+🔘 [**Smallpdf**](https://smallpdf.com/) All-in-one easy-to-use online PDF tools
 
 🔘 [**cloudconvert**](https://cloudconvert.com/) Convert anything to anything ♻️
 
@@ -50,7 +54,6 @@ $ ssh pi@192...
 #### Social
 
 🔘 [**StalkFace**](https://stalkface.com/en/) Facebook Stalking & Facebook Scanner
-
 🔘 [**PeoplefindThor**](https://peoplefindthor.dk/) The easy way to find people on Facebook
 
 🔘 [**FB pic check**](https://www.facebook.com/ads/tools/text_overlay) Check the amount of text in picture for Facebook
@@ -69,29 +72,25 @@ $ ssh pi@192...
 
 🔘 [**SketchUp**](https://app.sketchup.com) SketchUp. Online.
 
-#### Others
+#### Get some insights 🔦 
 
 🔘 [**SYD**](https://syd.korpus.cz/) Korpusový průzkum variant slov
 
-🔘 [**kdejsme.cz**](https://www.kdejsme.cz/) Četnost příjmení a jmen v ČR
+🔘 [**kdejsme.cz**](https://www.kdejsme.cz/) Četnost příjmení a jmen v ČR 🗿
 
-🔘 [**Legito**](https://www.legito.cz/) Vytvořte si svůj dokument za 5 minut
+🔘 [**isup.me**](https://downforeveryoneorjustme.com/) Down for everyone or just me
 
-🔘 [**LMGTFY**](https://lmgtfy.com/) Let Me Google That For You
-
-🔘 [**Mindmup**](https://app.mindmup.com) Free Online mind mapping
-
-🔘 [**BugMeNot**](http://bugmenot.com/) Find and share logins
-
-🔘 [**isup.me**](https://downforeveryoneorjustme.com/) Down For Everyone Or Just Me
+🔘 [**BuiltWith**](https://builtwith.com/) Find out what websites are built with 🔦
 
 🔘 [**haveibeenpwned**](https://haveibeenpwned.com/) Check if you have an account that has been compromised in a data breach
 
+🔘 [**SimilarSites**](https://www.similarsites.com/) Discover sites similar to the ones you know and love
+
 🔘 [**ReviewMeta**](https://reviewmeta.com/) Analyzes millions of reviews and helps you decide which ones to trust
 
-🔘 [**Random.org**](https://www.random.org/) 🎲 Offers true random numbers to anyone on the Internet
+🔘 [**Get-metadata**](https://www.get-metadata.com/) Free online EXIF viewer
 
-🔘 [**SimilarSites**](https://www.similarsites.com/) Discover sites similar to the ones you know and love
+🔘 [**Random.org**](https://www.random.org/) 🎲 Offers true random numbers to anyone on the Internet
 
 🔘 [**Internet Archive**](https://archive.org/) Library of millions of free books, movies, software, music, websites, and more
 
@@ -109,15 +108,17 @@ $ ssh pi@192...
 
 🔘 [**Hotwire**](https://www.hotwire.com/) Super cheap way of booking hotels
 
-[momondo.cz](https://www.momondo.cz/)
+🔘 [**momondo.cz**](https://www.momondo.cz/)
 
-[kayak.com](https://www.kayak.com.my/)
+🔘 [**kayak.com**](https://www.kayak.com.my/)
 
 #### Livin' Prague
 
 🔘 [**nakoleprahou.cz**](https://nakoleprahou.cz/plan.php) Plánovač cyklotras Prahou
 
 🔘 [**mapakriminality.cz**](http://mapakriminality.cz/) Jak název napovídá, jedná se o mapu kriminality
+
+🔘 [**Hlídač Státu**](https://www.hlidacstatu.cz/) Hlídáme je, protože si to zaslouží
 
 🔘 [**zpspraha.cz**](https://osu.zpspraha.cz/) Parkování v Praze
 
@@ -147,23 +148,23 @@ $ ssh pi@192...
 
 🔘 [**PointerPointer**](https://pointerpointer.com/) Point at your cursor. lol
 
+🔘 [**LMGTFY**](https://lmgtfy.com/) Let Me Google That For You
+
 #### Noteworthy
 
 🔘 [**Mluvii**](https://www.mluvii.com) Zlepšete svůj online business
 
-🔘 [**Ecomail**](https://www.ecomail.cz/) Marketingová  platforma pro E-mailing, SMS, Facebook, Instagram a Messenger
+🔘 [**Ecomail**](https://www.ecomail.cz/) Marketingová platforma pro E-mailing, SMS, Facebook, Instagram a Messenger
 
-#### Tool collections
 
-🔘 [**Pinbox**](https://withpinbox.com/) The last collection tool you need
 
-🔘 [**Producthunt**](https://www.producthunt.com/) The best new products in tech
+# 💰 Biz Services
 
-🔘 [**Tools for Makers**](https://toolsformakers.com/) A hand curated directory of tools for makers to work on their dream projects
+🔘 [**Legito**](https://www.legito.cz/) Vytvořte si svůj dokument za 5 minut
 
-🔘 [**UsefulInterweb**](https://usefulinterweb.com/) Useful Interweb brings only the best links every day
+🔘 [**Fakturoid**](https://app.fakturoid.cz) Fakturace made easy <3
 
-🔘 [**StartupStash**](https://startupstash.com/) A curated directory of tools  and resources to build your startup
+🔘 [**OsobníAsistentka.cz**](https://www.osobniasistentka.cz/) Už nejste na byznys sami a po celý den máte k ruce parťáka
 
 
 
@@ -222,6 +223,18 @@ $ ssh pi@192...
 🔘 [**Facebook Blueprint**](https://www.facebook.com/business/learn/paths/all-content?ref=ens_rdr) Full list of free online Facebook marketing courses from Blueprint
 
 🔘 [**Failory**](https://www.failory.com/) Content to help build a profitable startup
+
+#### Tool collections
+
+🔘 [**Pinbox**](https://withpinbox.com/) The last collection tool you need
+
+🔘 [**Producthunt**](https://www.producthunt.com/) The best new products in tech
+
+🔘 [**Tools for Makers**](https://toolsformakers.com/) A hand curated directory of tools for makers to work on their dream projects
+
+🔘 [**UsefulInterweb**](https://usefulinterweb.com/) Useful Interweb brings only the best links every day
+
+🔘 [**StartupStash**](https://startupstash.com/) A curated directory of tools  and resources to build your startup
 
 #### Other lists
 
