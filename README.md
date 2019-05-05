@@ -37,6 +37,8 @@ $ ssh pi@192...
 
 🔘 [**BugMeNot**](http://bugmenot.com/) Find and share logins
 
+🔘 [**OpenStreetMap**](https://openstreetmap.cz/) OpenStreetMap je mapa, kterou může kdokoliv upravovat. Něco jako Wikipedie
+
 #### Talkings
 
 🔘 [**Appear.in**](https://appear.in/) Easy video conversations
@@ -201,6 +203,34 @@ $ ssh pi@192...
 
 
 
+# 🖌 Design
+
+#### Photo resources 📸
+
+🔘 [**Pexels**](https://www.pexels.com/) The best free stock photos & videos shared by talented creators
+
+🔘 [**SCX**](https://www.scx.hu/) Free stock photos
+
+🔘 [**Pixabay**](https://pixabay.com/) Stunning free images & royalty free stock
+
+🔘 [**Freeimages**](https://www.freeimages.com/) Find and download free stock photos
+
+🔘 [**Unsplash**](https://unsplash.com/) Beautiful, free photos. Gifted by the world’s most generous community of photographers 🎁
+
+🔘 [**Freephotos**](https://freephotos.cc/) Free stock photos
+
+🔘 [**Compfight**](http://compfight.com/) Locate the visual inspiration you need. Super fast!
+
+#### Other resources
+
+🔘 [**Pixelsquid**](https://www.pixelsquid.com/) PNG Images with Perfect Transparency
+
+🔘 [**Mapbox**](https://www.mapbox.com/) Design and publish beautiful maps
+
+
+
+
+
 # 💸 Crypto stuff
 
 #### Overview
@@ -241,7 +271,7 @@ $ ssh pi@192...
 
 🔘 [**UsefulInterweb**](https://usefulinterweb.com/) Useful Interweb brings only the best links every day
 
-🔘 [**StartupStash**](https://startupstash.com/) A curated directory of tools  and resources to build your startup
+🔘 [**StartupStash**](https://startupstash.com/) A curated directory of tools and resources to build your startup
 
 #### Other lists
 
