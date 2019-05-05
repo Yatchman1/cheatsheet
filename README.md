@@ -54,6 +54,7 @@ $ ssh pi@192...
 #### Social
 
 🔘 [**StalkFace**](https://stalkface.com/en/) Facebook Stalking & Facebook Scanner
+
 🔘 [**PeoplefindThor**](https://peoplefindthor.dk/) The easy way to find people on Facebook
 
 🔘 [**FB pic check**](https://www.facebook.com/ads/tools/text_overlay) Check the amount of text in picture for Facebook
@@ -63,6 +64,8 @@ $ ssh pi@192...
 🔘 [**Google keyword**](https://ads.google.com/home/tools/keyword-planner/) Google Adwords keyword planner
 
 🔘 [**LinkTree**](https://linktr.ee/) Manage Instagram bio link
+
+🔘 [**Instagram Bot**](https://instagrambot.github.io/) Instagram promotion and SMM scripts. Forever free. Written in Python
 
 #### Graphics
 
@@ -86,7 +89,7 @@ $ ssh pi@192...
 
 🔘 [**SimilarSites**](https://www.similarsites.com/) Discover sites similar to the ones you know and love
 
-🔘 [**ReviewMeta**](https://reviewmeta.com/) Analyzes millions of reviews and helps you decide which ones to trust
+🔘 [**ReviewMeta**](https://reviewmeta.com/) Analyzes millions of Amazon reviews and helps you decide which ones to trust
 
 🔘 [**Get-metadata**](https://www.get-metadata.com/) Free online EXIF viewer
 
@@ -192,6 +195,8 @@ $ ssh pi@192...
 
 🔘 [**DjangoGirls**](https://tutorial.djangogirls.org/cs/) Tutorial na Django v češtině
 
+🔘 [**Learn Python**](https://learnpython.org/) Free interactive python tutorial
+
 🔘 [**HackerRank**](https://www.hackerrank.com/) Practice coding, prepare for interviews, and get hired
 
 
@@ -224,6 +229,8 @@ $ ssh pi@192...
 
 🔘 [**Failory**](https://www.failory.com/) Content to help build a profitable startup
 
+🔘 [**Google Search operators**](https://ahrefs.com/blog/google-advanced-search-operators/) The Complete List of 42 Advanced Operators
+
 #### Tool collections
 
 🔘 [**Pinbox**](https://withpinbox.com/) The last collection tool you need
@@ -242,7 +249,7 @@ $ ssh pi@192...
 
 🔘 [**the-book-of-secret-knowledge**](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
-🔘 [**DONG**](https://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html) Do online now, guys
+🔘 [**DONG**](https://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html) Things you can do online now, guys
 
 🔘 [**dotfiles**](https://github.com/mathiasbynens/dotfiles) 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
 
