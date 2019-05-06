@@ -227,7 +227,31 @@ $ ssh pi@192...
 
 🔘 [**Mapbox**](https://www.mapbox.com/) Design and publish beautiful maps
 
+🔘 [**InkyDeals**](https://www.inkydeals.com/active-deals/free/) The best deals for digital design assets
 
+🔘 [**Feather**](https://feathericons.com/) Simply beautiful open source icons
+
+🔘 [**Triangulate images**](https://snorpey.github.io/triangulation/) Image trangulation experiment
+
+🔘 [**Colorable**](http://jxnblk.com/colorable/demos/text/) Check if the contrast is enough
+
+🔘 [**IconBros**](https://www.iconbros.com/) 1732+ free icons grouped in 50 collections
+
+🔘 [**Pigment**](https://pigment.shapefactory.co/) Color pairings
+
+#### Types
+
+🔘 [**Losttype**](http://losttype.com/) Collaborative digital type foundry
+
+🔘 [**Google Fonts**](https://fonts.google.com/) Just fonts backed by Google
+
+🔘 [**FontForge**](https://fontforge.github.io/) Design your own font. Open source
+
+🔘 [**System Fonts**](https://practicaltypography.com/system-fonts.html) An awesome insight into system fonts usage
+
+🔘 [**Font collection**](https://trello.com/b/X1l04a7k/2-free-fonts-to-choose-from) Free fonts collected in Trello boards
+
+🔘 [**Befonts**](https://befonts.com/) Free fonts for creatives
 
 
 
@@ -260,6 +284,8 @@ $ ssh pi@192...
 🔘 [**Failory**](https://www.failory.com/) Content to help build a profitable startup
 
 🔘 [**Google Search operators**](https://ahrefs.com/blog/google-advanced-search-operators/) The Complete List of 42 Advanced Operators
+
+🔘 [**ReallyGoodEmails**](https://reallygoodemails.com/) List of the best email designs in the universe
 
 #### Tool collections
 
