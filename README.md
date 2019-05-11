@@ -239,6 +239,8 @@ $ ssh pi@192...
 
 🔘 [**Pigment**](https://pigment.shapefactory.co/) Color pairings
 
+🔘 [**Country Flags**](https://www.countryflags.com/) Vector flags from around the world
+
 #### Types
 
 🔘 [**Losttype**](http://losttype.com/) Collaborative digital type foundry
