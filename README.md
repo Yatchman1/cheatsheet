@@ -11,6 +11,18 @@ Connect to RPi shell on the same network.
 $ ssh pi@192...
 ```
 
+Commit code
+
+```
+git commit -a
+```
+
+Push to GitHub
+
+```
+git push https://github.com/Yatchman1/cheatsheet.git
+```
+
 
 
 # 🔧 Tools
