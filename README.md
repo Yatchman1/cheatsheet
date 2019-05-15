@@ -141,6 +141,8 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 🔘 **[portal.gov](https://portal.gov.cz/obcan/formulare)** Portál veřejné správy
 
+🔘 [**kupi.cz**](https://www.kupi.cz/) Aktuální letáky obchodů v Praze
+
 #### Cool GitHub apps
 
 🔘 [**Sherlock**](https://github.com/sherlock-project/sherlock) Find username across social networks (OSINT) 🔍
