@@ -28,13 +28,13 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 # Power usage
 
-🔘 [**Trello**](https://trello.com)
+🔥 [**Trello**](https://trello.com)
 
-🔘 [**Dynalist**](https://dynalist.io/)
+🔥 [**Dynalist**](https://dynalist.io/)
 
-🔘 [**WeTransfer**](https://wetransfer.com)
+🔥 [**WeTransfer**](https://wetransfer.com)
 
-🔘 [**Reddit**](https://www.reddit.com/)
+🔥 [**Reddit**](https://www.reddit.com/)
 
 
 
