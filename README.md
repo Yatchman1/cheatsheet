@@ -143,6 +143,8 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 🔘 [**kupi.cz**](https://www.kupi.cz/) Aktuální letáky obchodů v Praze
 
+🔘 [**Otevřená data ČR**](https://data.gov.cz/) Vše, co potřebujete vědět o otevřených datech v ČR
+
 #### Cool GitHub apps
 
 🔘 [**Sherlock**](https://github.com/sherlock-project/sherlock) Find username across social networks (OSINT) 🔍
@@ -255,6 +257,8 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 🔘 [**Country Flags**](https://www.countryflags.com/) Vector flags from around the world
 
+🔘 [**dimensions.guide**](https://www.dimensions.guide/) A comprehensive reference database of dimensioned drawings 📐
+
 #### Types
 
 🔘 [**Losttype**](http://losttype.com/) Collaborative digital type foundry
@@ -324,6 +328,12 @@ git push https://github.com/Yatchman1/cheatsheet.git
 🔘 [**DONG**](https://dongs2.blogspot.com/p/all-dongs-no-pictures-nor-description.html) Things you can do online now, guys
 
 🔘 [**dotfiles**](https://github.com/mathiasbynens/dotfiles) 🔧 .files, including ~/.macos — sensible hacker defaults for macOS
+
+🔘 [**awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles) A curated list of dotfiles resources
+
+🔘 [**git-cheatsheet**](https://github.com/arslanbilal/git-cheat-sheet) ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) git and git flow cheat sheet
+
+
 
 
 
