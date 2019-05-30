@@ -13,15 +13,28 @@ $ ssh pi@192...
 
 Commit code
 
-```
+```shell
+git add .
 git commit -a
 ```
 
 Push to GitHub
 
-```
+```shell
 git push https://github.com/Yatchman1/cheatsheet.git
 ```
+
+
+
+# Power usage
+
+🔘 [**Trello**](https://trello.com)
+
+🔘 [**Dynalist**](https://dynalist.io/)
+
+🔘 [**WeTransfer**](https://wetransfer.com)
+
+🔘 [**Reddit**](https://www.reddit.com/)
 
 
 
@@ -331,9 +344,7 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 🔘 [**awesome-dotfiles**](https://github.com/webpro/awesome-dotfiles) A curated list of dotfiles resources
 
-🔘 [**git-cheatsheet**](https://github.com/arslanbilal/git-cheat-sheet) ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) git and git flow cheat sheet
-
-
+🔘 [**git-cheatsheet**](https://github.com/arslanbilal/git-cheat-sheet) Git and git flow cheat sheet
 
 
 
