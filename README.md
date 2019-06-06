@@ -102,6 +102,8 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 🔘 [**SketchUp**](https://app.sketchup.com) SketchUp. Online.
 
+🔘 [**SpeakerDeck**](https://speakerdeck.com) Share and source presentations online
+
 #### Get some insights 🔦 
 
 🔘 [**SYD**](https://syd.korpus.cz/) Korpusový průzkum variant slov
