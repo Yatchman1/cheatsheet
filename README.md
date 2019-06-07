@@ -146,7 +146,7 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 #### Livin' Prague
 
-🔘 [**kubovy.finance**](kubovy.finance) Výpočet daní. With code and love. </❤️>
+🔘 [**kubovy.finance**](https://www.kubovy.finance) Výpočet daní. With code and love. </❤️>
 
 🔘 [**nakoleprahou.cz**](https://nakoleprahou.cz/plan.php) Plánovač cyklotras Prahou
 
