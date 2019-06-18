@@ -148,7 +148,7 @@ Internet is loaded with stuff. Here is something like a library of noteworthy th
 
 🔘 [**theHarvester**](https://github.com/laramies/theHarvester) E-mails, subdomains and names Harvester (OSINT) 🧹
 
-🔘 [**Cock.li**](https://cock.li) Yeah it's mail with cocks
+🔘 [**Cock.li**](https://cock.li) Yeah it's mail with cocks 🍆
 
 #### Amusement
 
