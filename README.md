@@ -4,28 +4,6 @@ Internet is loaded with stuff. Here is something like a library of noteworthy th
 
 **Table of content will be here.**
 
-# Cheatsheet
-
-Connect to RPi shell on the same network.
-```sh
-$ ssh pi@192...
-```
-
-Commit code
-
-```shell
-git add .
-git commit -a
-```
-
-Push to GitHub
-
-```shell
-git push https://github.com/Yatchman1/cheatsheet.git
-```
-
-
-
 # Power usage
 
 🔥 [**Trello**](https://trello.com)
@@ -162,13 +140,15 @@ git push https://github.com/Yatchman1/cheatsheet.git
 
 🔘 [**Otevřená data ČR**](https://data.gov.cz/) Vše, co potřebujete vědět o otevřených datech v ČR
 
-#### Cool GitHub apps
+#### Cool stuff
 
 🔘 [**Sherlock**](https://github.com/sherlock-project/sherlock) Find username across social networks (OSINT) 🔍
 
 🔘 [**Trape**](https://github.com/jofpin/trape) People tracker on the internet (OSINT) 📍
 
 🔘 [**theHarvester**](https://github.com/laramies/theHarvester) E-mails, subdomains and names Harvester (OSINT) 🧹
+
+🔘 [**Cock.li**](https://cock.li) Yeah it's mail with cocks
 
 #### Amusement
 
