@@ -82,6 +82,8 @@ Internet is loaded with stuff. Here is something like a library of noteworthy th
 
 🔘 [**SpeakerDeck**](https://speakerdeck.com) Share and source presentations online
 
+🔘 [**NordTheme**](https://www.nordtheme.com) An arctic, north-bluish color palette 
+
 #### Get some insights 🔦 
 
 🔘 [**SYD**](https://syd.korpus.cz/) Korpusový průzkum variant slov
