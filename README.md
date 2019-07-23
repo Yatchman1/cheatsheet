@@ -306,6 +306,8 @@ Internet is loaded with stuff. Here is something like a library of noteworthy th
 
 🔘 [**ReallyGoodEmails**](https://reallygoodemails.com/) List of the best email designs in the universe
 
+🔘 [**InstaPy documentation**](https://github.com/timgrossmann/InstaPy/blob/master/DOCUMENTATION.md) 🤖
+
 #### Tool collections
 
 🔘 [**Pinbox**](https://withpinbox.com/) The last collection tool you need
