@@ -208,6 +208,8 @@ Internet is loaded with stuff. Here is something like a library of noteworthy th
 
 🔘 [**Code My UI**](https://codemyui.com/) Web Design & UI Inspiration with Code Snippets
 
+🔘 [**Jvns.ca**](jvns.ca) Computer Zines that left me speechless
+
 #### Tutorials
 
 🔘 [**DjangoGirls**](https://tutorial.djangogirls.org/cs/) Tutorial na Django v češtině
